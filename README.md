@@ -1,1 +1,1 @@
-# Train-Scheduler
+A website that allows users to add a train, destination, start time, and time between trains. The site then uses moments.js to dynamically update when the next train will arrive and how long that time is from the current time.
