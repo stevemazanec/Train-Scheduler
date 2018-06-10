@@ -1,0 +1,37 @@
+body {
+    background-image: url(../assets/images/grand-central-station.jpg);
+    margin: 10px;
+}
+
+.jumbotron {
+    background-image: url(../assets/images/grand-central-clock.jpeg);
+    background-repeat: no-repeat;
+}
+
+#mainContainer {
+    background-color: white;
+    padding: 20px;
+}
+
+#currentSchedule {
+    caption-side: top;
+    color: red;
+    text-align: center;
+    font-size: 24px;
+}
+
+#trainTable {
+    border: 3px solid blue;
+    padding: 5px; 
+}
+
+#userAddTrain {
+    border: 3px solid blue;
+    padding: 10px;
+}
+
+#newTrainTitle {
+   text-align: center;
+   color: red;
+   font-size: 24px;
+}
